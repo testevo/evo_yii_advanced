@@ -1,0 +1,31 @@
+{
+  "name": "advanced",
+  "version": "2.0.8",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-uglify": "^1.5.3",
+    "lodash": "^2.4.1"
+  },
+  "description": "Yii 2 Advanced Project Template ===============================",
+  "main": "guplfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "admin",
+  "license": "ISC OR GPL-3.0"
+}
